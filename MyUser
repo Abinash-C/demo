@@ -1,0 +1,38 @@
+[{
+"id": 1,
+"name": "SaiSathya",
+"City": "Chennai",
+"Nationality": "Indian",
+},
+{
+"id": 2,
+"name": "Vinoth",
+"City": "Bengaluru",
+"Nationality": "Indian",
+},
+{
+"id": 3,
+"name": "Ajith",
+"City": "Hyderabad",
+"Nationality": "Indian",
+},
+{
+"id": 4,
+"name": "Raju",
+"City": "Pune",
+"Nationality": "Indian",
+},
+{
+"id": 5,
+"name": "carolin",
+"City": "Kolkata",
+"Nationality": "Indian",
+},
+{
+"id": 6,
+"name": "Divya",
+"City": "Cochin",
+"Nationality": "Indian",
+},
+
+
